@@ -1,0 +1,6 @@
+1. Início;
+2. Leia n;
+3. n1=n-1;
+4. n2= 10-n;
+5. Imprima n1 e n2;
+6. Fim. 
